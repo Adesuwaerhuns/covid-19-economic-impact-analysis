@@ -23,8 +23,13 @@ Project Objectives → Data Collection → Data Cleaning → Exploratory Data An
 (G) Key Findings
 1. Zimbabwe, Sudan, and Lebanon experienced high inflation in 2020.
 2. Removing extreme outliers revealed clearer regional inflation patterns.
-3. U.S. inflation increased substantially during the pandemic.
-4. U.S. unemployment returned close to its pre-pandemic average after the recovery.
+   <img width="557" height="313" alt="image" src="https://github.com/user-attachments/assets/abfce553-5a30-4ff7-a6b5-8097cd20cbf6" />
+
+4. U.S. inflation increased substantially during the pandemic.
+   <img width="365" height="245" alt="image" src="https://github.com/user-attachments/assets/7d894e9f-fe6a-4bc3-abe0-ecf58ea454c6" />
+
+6. U.S. unemployment returned close to its pre-pandemic average after the recovery.
+   <img width="542" height="97" alt="image" src="https://github.com/user-attachments/assets/f344abe0-0517-44d3-b43f-5cf2632561c4" />
 
 (H) Limitations
 - Approximately 40 countries had missing inflation data.
