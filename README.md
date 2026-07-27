@@ -23,6 +23,7 @@ Project Objectives → Data Collection → Data Cleaning → Exploratory Data An
 (G) Key Findings
 1. Zimbabwe, Sudan, and Lebanon experienced high inflation in 2020.
 <img width="556" height="312" alt="image" src="https://github.com/user-attachments/assets/1494aedb-4783-493c-89b4-def637c9df27" />
+
 2. Removing extreme outliers revealed clearer regional inflation patterns.
    
 3. U.S. inflation increased substantially during the pandemic.
